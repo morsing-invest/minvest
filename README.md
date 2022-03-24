@@ -1,2 +1,2 @@
-# morsing.invest
-Landing Page for Morsing Invest
+# minvest
+Landing Page for Morsing Invest LLC
